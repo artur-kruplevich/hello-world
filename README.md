@@ -1,5 +1,5 @@
 # hello-world
 experimental repository
-play at your own risk
+play at your own risk :pizza:
 
-edited by big experimentator
+edited by big experimentator :coffee:
